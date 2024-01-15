@@ -20,7 +20,7 @@ import PackageDescription
 let package = Package(
   name: "google-api-swift-client",
   platforms: [
-    .macOS(.v10_12), .iOS(.v9), .tvOS(.v9)
+    .macOS(.v10_15), .iOS(.v9), .tvOS(.v9)
   ],
   products: [
     .library(name: "GoogleAPIRuntime", targets: ["GoogleAPIRuntime"]),
