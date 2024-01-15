@@ -24,8 +24,17 @@
         "repositoryURL": "https://github.com/kevinzhow/google-auth-library-swift.git",
         "state": {
           "branch": null,
-          "revision": "e314e655cea9c2082073ce3c9fd73ee044b29dbf",
+          "revision": "533f421a789c02eb203ea657cf04006f1208046f",
           "version": null
+        }
+      },
+      {
+        "package": "jwt-kit",
+        "repositoryURL": "https://github.com/vapor/jwt-kit.git",
+        "state": {
+          "branch": null,
+          "revision": "cd0fe3af36764e876182137c3132a6d8459e1867",
+          "version": "4.13.1"
         }
       },
       {
@@ -44,6 +53,15 @@
           "branch": null,
           "revision": "d029d9d39c87bed85b1c50adee7c41795261a192",
           "version": "1.0.6"
+        }
+      },
+      {
+        "package": "swift-crypto",
+        "repositoryURL": "https://github.com/apple/swift-crypto.git",
+        "state": {
+          "branch": null,
+          "revision": "cc76b894169a3c86b71bac10c78a4db6beb7a9ad",
+          "version": "3.2.0"
         }
       },
       {
